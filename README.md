@@ -40,3 +40,29 @@ conforme mostrado a seguir. Considerar que
 o professor tem 10 dias para devolver o livro
 o aluno somente 3 dias</p>
 <hr>
+<h3>➡️triangulo.php</h3>
+<p>Ler 3 números, os possíveis lados de um 
+triângulo, e imprimir a classificação de 
+acordo com tamanho dos lados
+</p>
+<hr>
+<h3>➡️produto.php</h3>
+<p>Criar um algoritmos que leia um número e 
+imprima todos os número de 1 até ele e o seu 
+produto.
+</p>
+<hr>
+<h3>➡️crescente.php</h3>
+<p>Mesma lógica que o código decrescente.php, coloca valores em ordem crescente.</p>
+<hr>
+<h3>➡️sol.php</h3>
+<p>Entrar com o número de vezes que se deseja 
+imprimir a palavra SOL e imprimir
+</p>
+<hr>
+<h3>➡️tabuada.php</h3>
+<p>Criar um algoritmos que imprima a tabuada 
+de um número</p>
+<hr>
+
+
