@@ -64,5 +64,10 @@ imprimir a palavra SOL e imprimir
 <p>Criar um algoritmos que imprima a tabuada 
 de um número</p>
 <hr>
-
+<h3>➡️numeros.php</h3>
+<p>Ler vários números e informar quantos 
+números entre 100 e 200 foram digitados. Se 
+o valor 0 for lido encerrar a execução
+</p>
+<hr>
 
