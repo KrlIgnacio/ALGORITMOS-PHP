@@ -79,5 +79,5 @@ dos positivos e o total de números negativos
 e imprimir uma mensagem contendo o 
 número e uma das mensagens: par ou ímpar</p>
 <hr>
-<h3>➡️par_impar.php_1</h3>
+<h3>➡️par_impar.php_1.php</h3>
 <p>Mesmo código que o 'par_impar.php', mas agora com os números coletados pelo console</p>
