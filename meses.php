@@ -11,4 +11,5 @@ fscanf(STDIN, "%d", $mes);
                     echo $meses[$mes];
     }
 
-
+//array associativo numero -> mes
+//echo meses[numero digitado]

@@ -67,7 +67,17 @@ de um número</p>
 <h3>➡️numeros.php</h3>
 <p>Ler vários números e informar quantos 
 números entre 100 e 200 foram digitados. Se 
-o valor 0 for lido encerrar a execução
+o valor 0 for lido encerrar a execução</p>
+<hr>
+<h3>➡️vinteNum.php</h3>
+<p>Entrar com 20 números e imprimir a soma 
+dos positivos e o total de números negativos
 </p>
 <hr>
-
+<h3>➡️par_impar.php</h3>
+<p>Armazenar 15 números inteiros em um vetor 
+e imprimir uma mensagem contendo o 
+número e uma das mensagens: par ou ímpar</p>
+<hr>
+<h3>➡️par_impar.php_1</h3>
+<p>Mesmo código que o 'par_impar.php', mas agora com os números coletados pelo console</p>
